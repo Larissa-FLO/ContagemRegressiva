@@ -33,8 +33,12 @@ axios.get(`https://api.github.com/users/${usuario}`).then(response => console.lo
             <h2>{/*Nome*/}</h2>
             <h4>{/*Usuário*/}</h4>
           </div>
-
         </div>
+
+        <div className='repositorio'>
+        
+        </div>
+
       </div>
 
     </div>
